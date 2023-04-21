@@ -2,8 +2,10 @@
 
 Exploring ways of transforming organizational knowledge and discussions into a memex, using [OMIgroup](https://omigroup.com) for examples
 
-## Concept
+![image](https://user-images.githubusercontent.com/32600939/233524177-54db9071-ecf8-404c-8f91-6f5f5cc27582.png)
 
+
+## Concept
 
 **Organizational challenges**
 - meetings are at a weekly or bi-weekly cadence
